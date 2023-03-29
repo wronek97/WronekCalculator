@@ -1,1 +1,2 @@
 # WronekCalculator
+Maven Project Example
